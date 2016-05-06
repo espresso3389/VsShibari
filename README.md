@@ -1,2 +1,2 @@
 # VsShibari
-Experiment to do all the cross platform development tasks on Visual Studio
+An experiment to build everything with Visual Studio 2015
